@@ -10,5 +10,6 @@ repeated_string = str1 * repeat_times
 
 print("Concatenated string:", concatenated_string)
 print("Sliced string:", sliced_string)
+print("Sliced string:", str1[-2:])
 print("Repeated string:", repeated_string)
 
